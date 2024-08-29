@@ -1,0 +1,17 @@
+# Running the flask api server
+
+Install Prerequisite
+ - Docker Desktop
+ - Docker
+ - Python
+
+
+After Installing Prerequisite
+
+ - Run in terminal inside directory
+   `docker compose build` or docker-compose build
+ - After Building the app, Run
+   `docker compose up -d` or `docker-compose up -d`
+
+
+If no failure or errors go to `localhost:5000' to check if the flask app is Running
